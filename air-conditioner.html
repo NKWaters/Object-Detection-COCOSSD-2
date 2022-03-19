@@ -1,0 +1,32 @@
+<html>
+<head>
+
+	<title>Air Conditioner (AC) Detection</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
+
+  <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
+  
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body style="text-align: center;" background="Beige-Hardwood-Floor.jpg">
+  <button id="titlebedbutton" class="btn btn-info">Air Conditioner (AC) Objects Detection
+    <br>
+    Observe the Red Squares Around the objects Detected.
+    It will show the the Names of the Objects too. 
+    </button>
+    <button id="back" onclick="back()"><img id="back-arrow" src="back-arrow.png"><span>Back</span></button>
+    <br>
+    <br>
+    <button class="btn btn-danger" id="status-button">Status - Detecting Objects....</button>
+    <br>
+    <br>
+    <button class="btn btn-success" id="info1">There are 2 Big Objects in the Room from which the COCOSSD Model has Identified 1 Object</button>
+    <img id="ACimg" src="AirConditioner.jpg">
+    <script src="main.js"></script>
+ </body>
+ </html>

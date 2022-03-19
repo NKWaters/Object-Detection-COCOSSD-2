@@ -1,0 +1,197 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+#bedroom {
+    background-color: black;
+    border-radius: 100px;
+    width: 300px;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+}
+
+#ac {
+    background-color: black;
+    border-radius: 100px;
+    width: 300px;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+}
+
+#tv {
+    background-color: black;
+    border-radius: 100px;
+    width: 300px;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+}
+
+#desk {
+    background-color: black;
+    border-radius: 100px;
+    width: 300px;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+}
+
+#bottles {
+    background-color: black;
+    border-radius: 100px;
+    width: 300px;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+}
+
+#fruitbasket {
+    background-color: black;
+    border-radius: 100px;
+    width: 300px;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Bookman Old Style';
+    font-style: italic;
+}
+
+#bedroom:hover {
+    background-color: white;
+    color: black;
+}
+
+#ac:hover {
+    background-color: white;
+    color: black;
+}
+
+#tv:hover {
+    background-color: white;
+    color: black;
+}
+
+#desk:hover {
+    background-color: white;
+    color: black;
+}
+
+#fruitbasket:hover {
+    background-color: white;
+    color: black;
+}
+
+#bottles:hover {
+    background-color: white;
+    color: black;
+}
+
+#titlebedbutton {
+    padding-left: 316.999px;
+    padding-right: 316.999px;
+    border-radius: 0px;
+    font-size: 20px;
+    margin-left: -1px;
+    margin-top: 0px;
+}
+
+#back {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-top: 17px;
+    margin-left: 1420px;
+}
+
+#back-arrow {
+    height: 30px;
+    width: 30px;
+}
+
+#back:hover {
+    background-color: white;
+    color: black;
+}
+
+#status-button {
+    font-size: 17px;
+    margin-top: -50px;
+}
+
+#info1 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+#TVimg {
+    height: 495px;
+    border-radius: 10px;
+    width: 595px;
+    margin-top: 27px;
+    margin-right: 335px;
+    margin-left: 320px;
+    border: 5px solid white;
+}
+
+#bedimg {
+    height: 495px;
+    border-radius: 10px;
+    width: 595px;
+    margin-top: 27px;
+    margin-right: 335px;
+    margin-left: 320px;
+    border: 5px solid white;
+}
+
+#ACimg {
+    height: 495px;
+    border-radius: 10px;
+    width: 595px;
+    margin-top: 27px;
+    margin-right: 335px;
+    margin-left: 320px;
+    border: 5px solid white; 
+}
+
+#deskimg {
+    height: 495px;
+    border-radius: 10px;
+    width: 595px;
+    margin-top: 27px;
+    margin-right: 335px;
+    margin-left: 320px;
+    border: 5px solid white; 
+}
+
+#bottleIMG {
+    height: 495px;
+    border-radius: 10px;
+    width: 595px;
+    margin-top: 27px;
+    margin-right: 335px;
+    margin-left: 320px;
+    border: 5px solid BLACK; 
+}
+
+#fruitbasketIMG {
+    height: 495px;
+    border-radius: 10px;
+    width: 595px;
+    margin-top: 27px;
+    margin-right: 335px;
+    margin-left: 320px;
+    border: 5px solid BLACK; 
+}
